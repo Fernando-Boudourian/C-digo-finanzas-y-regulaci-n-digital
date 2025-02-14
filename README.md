@@ -1,1 +1,2 @@
-# C-digo-finanzas-y-regulaci-n-digital
+# Código-finanzas-y-regulación-digital
+La digitalización transformó la gestión patrimonial, permitiendo transacciones globales sin barreras. Sin embargo, los gobiernos han tenido que adaptar sus políticas fiscales para regular estos ingresos digitales. Se imponen normativas que afectan la rentabilidad y la planificación financiera. En este entorno, la transparencia y la adaptación son claves para la sostenibilidad económica.
